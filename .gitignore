@@ -1,0 +1,6 @@
+documentation/smarty/smarty-3.1.35/
+documentation/smarty/cache/
+.idea/
+.DS_Store
+
+**/node_modules

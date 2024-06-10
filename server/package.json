@@ -1,0 +1,18 @@
+{
+  "name": "server-sent-events-server",
+  "version": "1.0.0",
+  "description": "Concise example of server-sent-events sending fun facts about English language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server-sent-events"
+  ],
+  "author": "Pavlo Ulanenko",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
